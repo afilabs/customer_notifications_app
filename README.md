@@ -4,6 +4,7 @@
 
 Taken from: 
 - [Using the Google Maps API to get Driver ETAs (Part 1 of 2)](https://blog.afi.io/using-the-google-maps-api-to-get-driver-etas/)
+- [Using Twilio to Send ETA Notifications to your Customers (Part 2 of 2)](https://blog.afi.io/using-the-twilio-api-to-send-eta-notifications-to-your-customers/)
 
  How to run the app:
  1. cd into your project
